@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-31T21:10:00 AST" name="Default suite" finished-at="2024-01-31T21:10:19 AST" duration-ms="19013">
+    <groups>
+    </groups>
+    <test started-at="2024-01-31T21:10:00 AST" name="Default test" finished-at="2024-01-31T21:10:19 AST" duration-ms="19013">
+      <class name="MyTestCases">
+        <test-method is-config="true" signature="PreTest()[pri:0, instance:MyTestCases@46e8a539]" started-at="2024-01-31T21:10:00 AST" name="PreTest" finished-at="2024-01-31T21:10:02 AST" duration-ms="2713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreTest -->
+        <test-method signature="CreateAccount()[pri:1, instance:MyTestCases@46e8a539]" started-at="2024-01-31T21:10:02 AST" name="CreateAccount" description="test number 1" finished-at="2024-01-31T21:10:15 AST" duration-ms="12647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccount -->
+        <test-method signature="SingIn()[pri:2, instance:MyTestCases@46e8a539]" started-at="2024-01-31T21:10:15 AST" name="SingIn" description="test number 2" finished-at="2024-01-31T21:10:19 AST" duration-ms="3583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingIn -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
